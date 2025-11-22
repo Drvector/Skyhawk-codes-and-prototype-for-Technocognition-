@@ -1,0 +1,19 @@
+The project proposes a multi-drone system for disaster search and delivery in remote areas.​
+
+A scout drone performs real-time survivor detection and geotagging, while a delivery drone drops essential supplies.​
+
+Coordination is achieved via a centralised control system for efficient operations.​
+
+Innovative features include thermal imaging, real-time communication, and wind-compensated delivery.​
+
+Key hardware includes Pixhawk 2.4.8 flight controllers, Raspberry Pi 4B computers, FLIR thermal cameras, GPS modules, and brushless motors.​
+
+Mission control utilises ArduCopter firmware and custom Python code for autonomy and vision tasks.​
+
+The system's workflow covers initialisation, automated search, precision payload drop, and mission reporting.​
+
+Technical challenges like GPS errors and harsh weather are tackled with sensor fusion, redundant links, and modular designs.​
+
+Drones improve disaster management by enabling rapid response, reducing costs, and helping isolated victims.​
+
+The solution enhances survivor safety, environmental sustainability, and rescuer coordination.
